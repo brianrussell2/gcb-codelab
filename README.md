@@ -1,4 +1,4 @@
 # gcb-codelab
 
 A simple GCP application. 
-This is a change.
+This is a modification.
